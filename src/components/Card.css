@@ -1,0 +1,25 @@
+img {
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card-container {
+    width: 250px;
+    text-align: center;
+    background-color: rgb(229, 229, 229);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgba(96, 103, 182, 0.6);
+}
+
+.card-container h2 {
+    color:rgb(74, 91, 108);;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding: 10px 0;
+}
+
+.card-container h3 {
+    color: rgb(51, 62, 74);
+    padding-bottom: 20px;
+}
